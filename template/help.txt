@@ -1,0 +1,17 @@
+########################################################
+#                                                      #
+#  WEBCASE an evironment builder                       #
+#                                  by Vlad Filip       #
+#                                                      #
+#  -- WEBCASE TEMPLATE GENERATOR --                    #
+#                                                      #
+#  For more information please see the readme.md file  #
+#                                                      #
+########################################################
+
+Syntax:
+    webcase template { command }
+
+Commands:
+    "list" - Lists all the available templates
+    "init" - Creates a template for a webcase template

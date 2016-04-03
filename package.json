@@ -1,0 +1,28 @@
+{
+    "name": "webcase",
+    "version": "1.0.1",
+    "author": "Vlad Filip ( vlad.filip.dev@gmail.com )",
+    "description": "An environment builder for your web projects",
+    "main": "index.js",
+    "bin": {
+        "webcase": "./webcase.js"
+    },
+    "engines": {
+        "node": ">=5.8.0",
+        "npm": ">=3.7.3"
+    },
+    "dependencies": {
+        "colors": "^1.1.0",
+        "copy-dir": "^0.0.8"
+    },
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/vladfilipro/webcase.git"
+    },
+    "bugs": {
+        "url": "https://github.com/vladfilipro/webcase/issues"
+    }
+}

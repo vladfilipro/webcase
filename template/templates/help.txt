@@ -1,0 +1,14 @@
+########################################################
+#                                                      #
+#  WEBCASE an evironment builder                       #
+#                                  by Vlad Filip       #
+#                                                      #
+#  For more information please see the readme.md file  #
+#                                                      #
+########################################################
+
+Syntax:
+    webcase <% name %> { command }
+
+Commands:
+    "init" - Creates a new environment based on template

@@ -1,0 +1,20 @@
+########################################################
+#                                                      #
+#  WEBCASE an evironment builder                       #
+#                                  by Vlad Filip       #
+#                                                      #
+#  For more information please see the readme.md file  #
+#                                                      #
+########################################################
+
+Syntax:
+    webcase { template } { command }
+
+Templates:
+    - templates are packages available to webcase
+    - to get a list of all templates available type: `webcase template list`
+
+Commands:
+    - are specific to each template
+    - run `webcase { template }` to see a list of commands for
+    a specific template

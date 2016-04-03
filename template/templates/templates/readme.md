@@ -1,0 +1,1 @@
+- Generated using webcase@<% version %> with <% name %>
