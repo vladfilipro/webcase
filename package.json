@@ -1,9 +1,8 @@
 {
     "name": "webcase",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "author": "Vlad Filip ( vlad.filip.dev@gmail.com )",
     "description": "An environment builder for your web projects",
-    "main": "index.js",
     "bin": {
         "webcase": "./webcase.js"
     },
