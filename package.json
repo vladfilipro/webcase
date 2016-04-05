@@ -1,8 +1,16 @@
 {
     "name": "webcase",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "author": "Vlad Filip ( vlad.filip.dev@gmail.com )",
     "description": "An environment builder for your web projects",
+    "keywords": [
+        "webcase",
+        "template",
+        "builder",
+        "env",
+        "environment",
+        "gulpfriendly"
+    ],
     "bin": {
         "webcase": "./webcase.js"
     },
