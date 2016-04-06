@@ -4,6 +4,12 @@
     "author": "",
     "description": "",
     "main": "index.js",
+    "keywords": [
+        "webcase",
+        "template",
+        "webcaseplugin",
+        "webcasefriendly"
+    ],
     "engines": {
         "node": ">=5.8.0",
         "npm": ">=3.7.3"
