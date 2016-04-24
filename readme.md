@@ -1,4 +1,6 @@
 # WEBCASE
+[![Dependency Status](https://david-dm.org/vladfilipro/webcase.svg)](https://david-dm.org/vladfilipro/webcase)
+
 ## Installing webcase
 - Install webcase via npm
 
