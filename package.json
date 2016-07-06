@@ -1,6 +1,6 @@
 {
     "name": "webcase",
-    "version": "1.0.7",
+    "version": "1.0.8",
     "author": "Vlad Filip ( vlad.filip.dev@gmail.com )",
     "description": "An environment builder for your web projects",
     "keywords": [
@@ -20,7 +20,7 @@
     },
     "dependencies": {
         "colors": "^1.1.0",
-        "copy-dir": "^0.0.8"
+        "copy-dir": "~0.3.0"
     },
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1"
