@@ -1,4 +1,4 @@
-'use strict';
+'use strict'
 
 /*
     Available actions
@@ -32,16 +32,16 @@
 */
 
 module.exports = {
-    'init': [ {
-        'action': 'copy',
-        'config': {
-            'source': __dirname + '/templates',
-            'destination': './'
-        }
-    }, {
-        'action': 'run',
-        'config': {
-            'command': 'npm install'
-        }
-    } ]
-};
+  'init': [ {
+    'action': 'copy',
+    'config': {
+      'source': __dirname + '/templates',
+      'destination': './'
+    }
+  }, {
+    'action': 'run',
+    'config': {
+      'command': 'npm install'
+    }
+  } ]
+}
